@@ -1,8 +1,8 @@
-Think outside the box!
-Read the 'StegKey.txt' file! Maybe that's what you're looking for :)
+Осымен бітті деп ойладыңыз ба? Қателесесіз, ойын енді ғана басталды.
+"StegKey.txt" файлын оқып көріңіз. Мүмкін сол жерден керегіңізді табарсыз.
 
-Қораптың сыртынан ойлаңыз!
-'StegKey.txt' файлын оқып көріңіз! Мүмкін сіз іздеген нәрсе сонда болар :)
+Did you think that's it? You are wrong, the game has just begun.
+Read the "StegKey.txt" file. Maybe you will find what you need there.
 
-Думайте нестандартно!
-Прочтите файл «StegKey.txt»! Возможно, это то, что вы ищете :)
+Вы думали, что это все? Вы ошибаетесь, игра только началась.
+Прочтите файл «StegKey.txt». Возможно, вы найдете там то, что вам нужно.
