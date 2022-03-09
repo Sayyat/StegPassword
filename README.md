@@ -1,4 +1,3 @@
-"# StegPassword"
 Think outside the box!
 Read the 'StegKey.txt' file! Maybe that's what you're looking for :)
 
